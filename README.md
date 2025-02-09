@@ -27,12 +27,17 @@ An Android application (Java) for real-time ECG signal display and monitoring.
 🔋 Battery Powered – 18650 Li-ion rechargeable battery for portability.
 
 **Hardware Components:**
-The ECG device includes:
+
 ECG Module (AD8232) – Signal acquisition.
+
 STM32F103C8T6 – Microcontroller for signal processing.
+
 Step-Down Converter (LM2596S) – Voltage regulation.
+
 Custom PCB (FR4 laminate) – Circuit integration.
+
 Bluetooth HC-05 – Wireless communication with the Android app.
+
 Enclosure & Battery (18650 Li-ion) – Portable and safe operation.
 
 ![urzadzenie](https://github.com/user-attachments/assets/4fc39b81-2282-4e9c-93d8-005999a522c4)
